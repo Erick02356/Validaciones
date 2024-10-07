@@ -1,0 +1,17 @@
+D:\Universidad\C#\EjercicioValidaciones\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Universidad\C#\EjercicioValidaciones\Presentacion\bin\Debug\Presentacion.exe
+D:\Universidad\C#\EjercicioValidaciones\Presentacion\bin\Debug\Presentacion.pdb
+D:\Universidad\C#\EjercicioValidaciones\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Universidad\C#\EjercicioValidaciones\Presentacion\obj\Debug\Presentacion.Usuario.resources
+D:\Universidad\C#\EjercicioValidaciones\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Universidad\C#\EjercicioValidaciones\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\Universidad\C#\EjercicioValidaciones\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Universidad\C#\EjercicioValidaciones\Presentacion\obj\Debug\Presentacion.exe
+D:\Universidad\C#\EjercicioValidaciones\Presentacion\obj\Debug\Presentacion.pdb
+D:\Universidad\C#\EjercicioValidaciones\Presentacion\bin\Debug\Entidades.dll
+D:\Universidad\C#\EjercicioValidaciones\Presentacion\bin\Debug\Negocio.dll
+D:\Universidad\C#\EjercicioValidaciones\Presentacion\bin\Debug\Datos.dll
+D:\Universidad\C#\EjercicioValidaciones\Presentacion\bin\Debug\Entidades.pdb
+D:\Universidad\C#\EjercicioValidaciones\Presentacion\bin\Debug\Negocio.pdb
+D:\Universidad\C#\EjercicioValidaciones\Presentacion\bin\Debug\Datos.pdb
+D:\Universidad\C#\EjercicioValidaciones\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date

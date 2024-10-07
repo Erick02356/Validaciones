@@ -1,0 +1,11 @@
+D:\Universidad\C#\EjercicioValidaciones\Negocio\bin\Debug\Negocio.dll
+D:\Universidad\C#\EjercicioValidaciones\Negocio\bin\Debug\Negocio.pdb
+D:\Universidad\C#\EjercicioValidaciones\Negocio\bin\Debug\Datos.dll
+D:\Universidad\C#\EjercicioValidaciones\Negocio\bin\Debug\Entidades.dll
+D:\Universidad\C#\EjercicioValidaciones\Negocio\bin\Debug\Datos.pdb
+D:\Universidad\C#\EjercicioValidaciones\Negocio\bin\Debug\Entidades.pdb
+D:\Universidad\C#\EjercicioValidaciones\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\Universidad\C#\EjercicioValidaciones\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Universidad\C#\EjercicioValidaciones\Negocio\obj\Debug\Negocio.csproj.Up2Date
+D:\Universidad\C#\EjercicioValidaciones\Negocio\obj\Debug\Negocio.dll
+D:\Universidad\C#\EjercicioValidaciones\Negocio\obj\Debug\Negocio.pdb

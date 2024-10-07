@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Universidad\\C#\\EjercicioValidaciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D054BD17-992C-4F30-8BC4-A7A85ABF0524}|Presentacion\\Presentacion.csproj|D:\\Universidad\\C#\\EjercicioValidaciones\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D054BD17-992C-4F30-8BC4-A7A85ABF0524}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D054BD17-992C-4F30-8BC4-A7A85ABF0524}|Presentacion\\Presentacion.csproj|d:\\universidad\\c#\\ejerciciovalidaciones\\presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D054BD17-992C-4F30-8BC4-A7A85ABF0524}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9B131A-920A-4046-8BD3-08EEA1FBE245}|Negocio\\Negocio.csproj|D:\\Universidad\\C#\\EjercicioValidaciones\\negocio\\propietarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9B131A-920A-4046-8BD3-08EEA1FBE245}|Negocio\\Negocio.csproj|solutionrelative:negocio\\propietarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF408EDC-46DB-4E3E-AED9-1760C9135EF0}|Datos\\Datos.csproj|D:\\Universidad\\C#\\EjercicioValidaciones\\datos\\propietariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF408EDC-46DB-4E3E-AED9-1760C9135EF0}|Datos\\Datos.csproj|solutionrelative:datos\\propietariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84DECFFE-FAEE-4AB7-8F77-7B9CC696DE2D}|Entidades\\Entidades.csproj|D:\\Universidad\\C#\\EjercicioValidaciones\\entidades\\propietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84DECFFE-FAEE-4AB7-8F77-7B9CC696DE2D}|Entidades\\Entidades.csproj|solutionrelative:entidades\\propietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Universidad\\C#\\EjercicioValidaciones\\Presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form1.cs",
+              "ToolTip": "D:\\Universidad\\C#\\EjercicioValidaciones\\Presentacion\\Form1.cs",
+              "RelativeToolTip": "Presentacion\\Form1.cs",
+              "ViewState": "AQIAAEgBAAAAAAAAAAAmwFMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:40:17.67Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PropietarioRepository.cs",
+              "DocumentMoniker": "D:\\Universidad\\C#\\EjercicioValidaciones\\Datos\\PropietarioRepository.cs",
+              "RelativeDocumentMoniker": "Datos\\PropietarioRepository.cs",
+              "ToolTip": "D:\\Universidad\\C#\\EjercicioValidaciones\\Datos\\PropietarioRepository.cs",
+              "RelativeToolTip": "Datos\\PropietarioRepository.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwF8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:25:16.945Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PropietarioService.cs",
+              "DocumentMoniker": "D:\\Universidad\\C#\\EjercicioValidaciones\\Negocio\\PropietarioService.cs",
+              "RelativeDocumentMoniker": "Negocio\\PropietarioService.cs",
+              "ToolTip": "D:\\Universidad\\C#\\EjercicioValidaciones\\Negocio\\PropietarioService.cs",
+              "RelativeToolTip": "Negocio\\PropietarioService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA9wCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:32:58.392Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Universidad\\C#\\EjercicioValidaciones\\Presentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Form1.cs",
+              "ToolTip": "D:\\Universidad\\C#\\EjercicioValidaciones\\Presentacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:24:36.35Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Propietario.cs",
+              "DocumentMoniker": "D:\\Universidad\\C#\\EjercicioValidaciones\\Entidades\\Propietario.cs",
+              "RelativeDocumentMoniker": "Entidades\\Propietario.cs",
+              "ToolTip": "D:\\Universidad\\C#\\EjercicioValidaciones\\Entidades\\Propietario.cs",
+              "RelativeToolTip": "Entidades\\Propietario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:50:51.632Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
